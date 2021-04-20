@@ -16,3 +16,7 @@ No se encontraron caracteres en común
 let f1 = "German"
 let f2 = "Gabriela"
 
+function caracteres (string){
+    
+}
+
